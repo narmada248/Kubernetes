@@ -1,0 +1,28 @@
+# datatypes
+name: narmada
+age : !!int 20
+course: !!str Devops
+marks: !!float 3.666
+oct: !!int 01234
+boolean: !!bool No
+name: narmada
+surname: !!null Null
+non a number: !!nan nan
+#multiple lines in single line
+msg: |
+  hiii
+  hloo
+  all.
+#single line in multiple lines
+message: >
+  hii
+  hloo
+  how
+#date and time
+date: !!timestamp 2002-12-14
+india time: 2001-12-15T02:59:43.10  +5:30
+exponential: 233546457E32
+
+
+
+

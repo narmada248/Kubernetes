@@ -1,0 +1,14 @@
+"apple": "red"
+"1": "its a number"
+---
+
+- apple
+- mango
+- banana
+---
+
+
+cities:
+  - new delhi
+  - mumbai
+  - gujarat
